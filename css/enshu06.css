@@ -8,6 +8,10 @@ p{
     font-size:25px;
     font-weight: bold;
  }
+table{
+    background-color: aliceblue;
+    
+}
 body{
     background-image:url("../images/02.jpg");
     background-repeat: no-repeat;

@@ -1,0 +1,36 @@
+h1{
+    color:red; 
+    font-family:"Impact";
+    text-align: center;
+    background-color: aquamarine;
+}
+h2{
+    color: aqua;
+     font-family:"Impact";
+    text-align: center;
+    background-color: darkorange;
+}
+h3{
+    color: dodgerblue;
+     font-family:"Impact";
+    text-align: left;
+}
+tr{
+    background-color: aquamarine;
+}
+p{
+     color:yellowgreen; 
+    font-size:15px;
+    font-weight: bold;
+    text-align: left;
+    
+ }
+body{
+     background-image:url("../images/04.png");
+    background-repeat:repeat;
+    
+}
+ol{
+    background-image:url("../images/06.jpg");
+    
+}
