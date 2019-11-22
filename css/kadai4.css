@@ -1,0 +1,35 @@
+.bluecolor{
+    color: white;
+    text-align: center;
+    font-size:50px;
+      background-color: black;
+    
+
+}
+.redcolor{
+    color: red;
+     text-align: center;
+     font-size:50px;
+      background-color: mediumaquamarine;
+    
+}
+.yellowcolor{
+     color: yellow;
+      text-align: center;
+     font-size:35px;
+   background-color: aqua;
+    
+}
+.car{
+     color: cyan;
+      text-align: center;
+     font-size:35px;
+   background-color: mediumvioletred;
+    
+    
+}
+body{
+     background-image:url("../images/04.png");
+    background-repeat:repeat;
+    
+}
