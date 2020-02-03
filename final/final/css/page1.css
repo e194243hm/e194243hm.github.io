@@ -33,8 +33,11 @@ div.image{
     height: 1000px;
     display:inline-block;
     vertical-align: top;
-    
-    
 }
+body{
+    background-color: lightpink;
+}
+
+
 
 
